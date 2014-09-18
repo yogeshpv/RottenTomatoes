@@ -4,6 +4,8 @@ RottenTomatoes
 [GIF walkthrough] (https://github.com/yogeshpv/RottenTomatoes/blob/master/RottenTomatoes_snap.gif)
 
 Required:
+---------
+
 1. User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. (Done)
 
 2. User can view movie details by tapping on a cell. (Done)
