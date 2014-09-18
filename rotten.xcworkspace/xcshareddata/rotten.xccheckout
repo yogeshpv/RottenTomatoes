@@ -12,22 +12,34 @@
 	<dict>
 		<key>ADB17EAAD3A2B8F63F5592DEA6A3DFC4780C9967</key>
 		<string>ssh://github.com/yogeshpv/TipCalculator.git</string>
+		<key>C09108543F34CFDB7E5AEB9ED332C4E9694716F8</key>
+		<string>github.com:yogeshpv/RottenTomatoes.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>rotten/rotten.xcworkspace</string>
+	<string>rotten.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>ADB17EAAD3A2B8F63F5592DEA6A3DFC4780C9967</key>
-		<string>../..</string>
+		<string>../../TipCalculator</string>
+		<key>C09108543F34CFDB7E5AEB9ED332C4E9694716F8</key>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/yogeshpv/TipCalculator.git</string>
+	<string>github.com:yogeshpv/RottenTomatoes.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>ADB17EAAD3A2B8F63F5592DEA6A3DFC4780C9967</string>
+	<string>C09108543F34CFDB7E5AEB9ED332C4E9694716F8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C09108543F34CFDB7E5AEB9ED332C4E9694716F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RottenTomatoes</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

@@ -13,6 +13,7 @@
 		2F38BF5A19C78EA20023063F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F38BF5919C78EA20023063F /* Images.xcassets */; };
 		2F38BF6619C78EA20023063F /* rottenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F38BF6519C78EA20023063F /* rottenTests.swift */; };
 		2F38BF7019C795110023063F /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F38BF6F19C795110023063F /* MoviesViewController.swift */; };
+		2FFA8CF919CA753D00ED22F6 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FFA8CF819CA753D00ED22F6 /* DetailsViewController.swift */; };
 		7F69B6ACBAE1491DAEAB042C /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDCB6A075EA84A6E909A7875 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		2F38BF6519C78EA20023063F /* rottenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rottenTests.swift; sourceTree = "<group>"; };
 		2F38BF6F19C795110023063F /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		2FC682E419C7C51F00199B3B /* rotten-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "rotten-Bridging-Header.h"; sourceTree = "<group>"; };
+		2FFA8CF819CA753D00ED22F6 /* DetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		5976EABA28FE4855B98F2CEC /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		DDCB6A075EA84A6E909A7875 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -84,6 +86,7 @@
 		2F38BF4F19C78EA20023063F /* rotten */ = {
 			isa = PBXGroup;
 			children = (
+				2FFA8CF819CA753D00ED22F6 /* DetailsViewController.swift */,
 				2F2092B419C7A14800774725 /* MovieCell.swift */,
 				2F38BF6F19C795110023063F /* MoviesViewController.swift */,
 				2F38BF5219C78EA20023063F /* AppDelegate.swift */,
@@ -265,6 +268,7 @@
 				2F38BF5319C78EA20023063F /* AppDelegate.swift in Sources */,
 				2F38BF7019C795110023063F /* MoviesViewController.swift in Sources */,
 				2F2092B519C7A14800774725 /* MovieCell.swift in Sources */,
+				2FFA8CF919CA753D00ED22F6 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
