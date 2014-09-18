@@ -17,5 +17,6 @@ Required:
 5. User can pull to refresh the movie list. (Done)
  
 Total Hours Spent: 18 hrs
+-----------------
 
 Optionals: Not done
