@@ -58,6 +58,7 @@
                     <navigationItem key="navigationItem" title="Movies" id="qR0-0V-KSh"/>
                     <connections>
                         <outlet property="TableView" destination="Ft9-lf-z8E" id="Ydx-gL-b9S"/>
+                        <outlet property="tableView" destination="Ft9-lf-z8E" id="253-nI-wpb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
